@@ -56,7 +56,7 @@ Reach me out!
 <br />
 
 #### Bizness
-- 	📎  [  My Resume/CV](https://github.com/ViduminiRathnayaka/ViduminiRathnayaka/blob/main/Vidumini%20Rathnayaka%20.pdf)
+- 	📎  [  My Resume/CV]([https://github.com/ViduminiRathnayaka/ViduminiRathnayaka/blob/main/Vidumini%20Rathnayaka%20.pdf](https://github.com/Tishrash/Tishrash/blob/CV/Tishan%20Rashmika.pdf))
 - 📧 tishanrashmika00@gmai.com
 
 
