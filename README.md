@@ -66,7 +66,7 @@ I'm a passionate Software Engineer with experience in full-stack development and
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Tishrash.Tishrash)
 
 ### 📫 Professional Links
-- 📎 [My Resume/CV](https://github.com/Tishrash/Tishrash/blob/CV/Tishan%20Rashmika.pdf)
+
 - 📧 tishanrashmikamg@gmail.com
 
 ---
