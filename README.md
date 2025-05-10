@@ -2,6 +2,8 @@
 
 I'm a passionate QA Engineer currently pursuing my BSc. (Hons) in Information Technology at SLIIT. I have a strong foundation in software quality assurance, test automation through academic learning and real-world experience. I enjoy building high-quality, user-focused software and leading projects that make a meaningful impact.
 
+👉 **Check out my portfolio:** [https://portfolio-git-main-tishrashs-projects.vercel.app](https://portfolio-git-main-tishrashs-projects.vercel.app)
+
 ---
 
 ### 🚀 Quick Facts
