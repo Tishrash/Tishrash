@@ -22,13 +22,6 @@ I'm a passionate QA Engineer currently pursuing my BSc. (Hons) in Information Te
 #### 🔍 QA & Testing
 Selenium • Cucumber • TestNG • Maven • Selenium IDE
 
-#### 💻 Development
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=3C873A)
-![Express Badge](https://img.shields.io/badge/-express-ff9d5c?style=for-the-badge&labelColor=black&logo=Express&logoColor=ff9d5c)
-![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![NextJS Badge](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
-
 #### 🧰 Tools & Languages
 Java • SQL • Python • HTML • CSS • JavaScript • Oracle • Git • VS Code • IntelliJ
 
