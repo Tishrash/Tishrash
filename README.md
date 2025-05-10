@@ -9,8 +9,6 @@ I'm a passionate QA Engineer currently pursuing my BSc. (Hons) in Information Te
 - 🎓 BSc. (Hons) in Information Technology – SLIIT (2021–2025)
 - 🧪 QA Engineer skilled in Selenium, TestNG, Cucumber & Test Automation
 - 💼 Former Software Engineer Intern – Gravity Colombo
-- 👨‍🏫 ICT Instructor – ITI School, Tangalle
-- 💻 Full-Stack Developer – MERN Stack, Next.js, Flask
 - ☁️ Cloud Enthusiast – AWS
 - 🎸 Music Lover – 2nd place in All Island Music Competition (Solo Guitar)
 - 🏫 Alumnus of Rahula College Matara
