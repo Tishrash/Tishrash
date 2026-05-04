@@ -1,80 +1,90 @@
-## Hi I'm Tishan Rashmika <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Tishan Rashmika
 
-I'm a passionate QA Engineer currently pursuing my BSc. (Hons) in Information Technology at SLIIT. I have a strong foundation in software quality assurance and test automation, built through both academic and real-world experience. I love ensuring quality in software, leading impactful projects, and continuously learning new technologies.
+Quality Assurance Engineer with hands-on experience in test automation, API testing, and end-to-end system validation. Currently working on real-world systems, focusing on delivering stable, high-quality software through structured testing and automation.
 
-👉 **Check out my portfolio:** [https://portfolio-git-main-tishrashs-projects.vercel.app](https://portfolio-git-main-tishrashs-projects.vercel.app)
-
----
-
-### 🚀 Quick Facts
-
-- 🎓 BSc. (Hons) in Information Technology – SLIIT (2021–2025)
-- 🧪 QA Engineer skilled in Selenium, TestNG, Cucumber & Test Automation
-- 💼 Former Full Stack Developer Intern – Gravity Colombo
-- ☁️ Cloud Enthusiast – AWS
-- 🎸 Music Lover – 2nd place in All Island Music Competition (Solo Guitar)
-- 🏫 Alumnus of Rahula College Matara
+Portfolio: https://portfolio-git-main-tishrashs-projects.vercel.app  
 
 ---
 
-### 🛠️ Tech Stack
+## Summary
 
-#### 🔍 QA & Testing
-`Selenium` • `TestNG` • `Cucumber` • `JMeter` • `Selenium IDE`
-
-#### 💻 Tools & Languages
-`Java` • `Python` • `JavaScript` • `SQL` • `HTML` • `CSS` • `MongoDB` • `MySQL` • `Oracle`  
-`Git` • `GitHub` • `VS Code` • `IntelliJ` • `Postman`  
-`Docker` • `Jenkins` • `AWS` • `Vercel` • `GitHub Actions`
+Experienced in manual and automated testing, with strong skills in API automation using Cypress, Postman, and Rest Assured. Involved in full QA lifecycle including test planning, execution, defect tracking, and release validation.
 
 ---
 
-### 🌟 Notable Projects
+## Experience
 
-#### 🚘 AutoXpert (Ongoing – Team Leader)
-- Mobile app for vehicle spare part search & shop rating
-- Features Singlish sentiment analysis for feedback
-- Tech: React Native, Flask, SQLite, NLP
+**Trainee Quality Assurance Engineer – LAYOUTindex**  
+Nov 2025 – Present  
+- Leading QA for IoT-based systems and Web Backoffice  
+- Performing end-to-end testing for POS and KIOSK systems  
+- Implementing API automation using Cypress, Postman, and Rest Assured  
+- Handling OTP and email validation workflows  
+- Responsible for release validation and quality sign-off  
 
-#### 📸 IPLPC – Web-Based Photo Competition System
-- Platform for photo submissions, judging, and showcasing
-- Tech: Next.js, GraphQL, PostgreSQL, Clerk Auth
+**QA Engineer Intern – LAYOUTindex**  
+May 2025 – Nov 2025  
+- Automated API testing using Cypress and Postman  
+- Integrated automation with GitHub Actions and Allure Reports  
+- Performed functional and UI testing across multiple systems  
+- Designed and executed test cases  
 
-#### 🧾 PAID-UP – Invoice & Quotation Generator
-- Modern UI with Tailwind + Shadcn UI
-- Tech: Next.js, Express.js, MySQL, AWS
-
-#### 🧮 Expense Tracker (Personal Project)
-- Full-stack web app with real-time visualization
-- Tech: Next.js, TypeScript, Tailwind, JWT, GitHub Actions, Vercel
-
----
-
-### 📜 Certifications
-
-- ✅ AWS Cloud Foundation – AWS
-- ✅ Software Testing Foundation – LinkedIn
-- ✅ Test Management in Software Testing – Coursera
-- ✅ Foundations of Software Testing and Validation – Coursera
-- ✅ Understanding Prompt Engineering – DataCamp
+**Full Stack Developer Intern – Gravity Colombo**  
+Jan 2024 – Jul 2024  
+- Developed web applications using Next.js  
+- Integrated Hasura with GraphQL  
+- Built responsive UI using HTML, CSS, and PHP  
 
 ---
 
-### 🏆 Accomplishments
+## Skills
 
-- 🧪 Participant – Scripting & Automation Competition (Bashaway)
-- 🎸 2nd Place – All Island Solo Guitar Competition (2017)
-- 🥁 5th Place – Derana Battle of the Bands (2019)
-
----
-
-### 📫 Connect with Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-TishanRashmika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tishan-rashmika/)
-[![Instagram Badge](https://img.shields.io/badge/-tish_rash-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/tish_rash/)
-[![Facebook Badge](https://img.shields.io/badge/-Rashmika_Gamage-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/tishrash)
-[![Gmail Badge](https://img.shields.io/badge/-Tishan_Rashmika-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tishanrashmika00@gmail.com)
+**Test Automation:** Cypress, Selenium, Rest Assured  
+**Testing:** API Testing, UI Testing, Functional Testing, Regression Testing  
+**Programming:** Java, JavaScript, Python  
+**Database:** SQL  
+**Tools:** Postman, JMeter, K6, GitHub Actions, Allure Reports, BrowserStack  
+**Other:** Git, Docker, Jenkins, AWS  
 
 ---
 
-🧠 *“Passionate about ensuring quality, driven by curiosity, and always coding with care.”*
+## Projects
+
+**IoT System and Web Backoffice**  
+- Led QA for IoT-based platform including device data validation  
+- Responsible for test planning, execution, and defect tracking  
+
+**Cinema Management System – API Automation**  
+- Automated API testing using Cypress and Postman  
+- Implemented OTP login and email validation workflows  
+- Integrated automation with GitHub Actions  
+
+**Multi-Platform Testing (POS, KIOSK, Mobile, Web)**  
+- Performed functional and UI testing across multiple platforms  
+- Ensured data accuracy and consistent user experience  
+
+---
+
+## Education
+
+BSc (Hons) in Information Technology  
+Sri Lanka Institute of Information Technology (SLIIT)  
+2021 – 2025  
+
+---
+
+## Certifications
+
+- AWS Cloud Foundation  
+- Software Testing Foundation  
+- Test Management in Software Testing  
+- Foundations of Software Testing and Validation  
+- Understanding Prompt Engineering  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/tishan-rashmika/  
+Email: tishanrashmikamg@gmail.com  
+Phone: +94 71 63 67 106  
