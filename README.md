@@ -2,7 +2,6 @@
 
 Quality Assurance Engineer with hands-on experience in test automation, API testing, and end-to-end system validation. Currently working on real-world systems, focusing on delivering stable, high-quality software through structured testing and automation.
 
-Portfolio: https://portfolio-git-main-tishrashs-projects.vercel.app  
 
 ---
 
